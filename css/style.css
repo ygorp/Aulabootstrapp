@@ -1,4 +1,6 @@
-
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .navbar {
   background-color: #4d4dff;
 }
@@ -7,4 +9,13 @@
   background-color: #1f7a1f;
   padding-top: 40px;
   text-align: center;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.serviços {
+  background-color: ;
 }
